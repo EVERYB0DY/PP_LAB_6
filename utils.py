@@ -1,3 +1,4 @@
+
 """MFunkcje do testu.
 
     
