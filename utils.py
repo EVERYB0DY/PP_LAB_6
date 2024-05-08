@@ -1,8 +1,9 @@
-
 """MFunkcje do testu.
 
     
 """
+
+
 def add(a: int, b: int) -> int:
     """Adds two integers.
 
